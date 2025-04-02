@@ -10,10 +10,10 @@ import android.view.ViewGroup;
 
 import com.example.bakproject.R;
 
-public class BlankProfileFragment extends Fragment {
+public class ProfileFragment extends Fragment {
 
 
-    public BlankProfileFragment() {
+    public ProfileFragment() {
         // Required empty public constructor
     }
 
